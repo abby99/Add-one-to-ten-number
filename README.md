@@ -1,6 +1,6 @@
 # Add-one-to-ten-number
 
-#incude<stdio.h>
+#incude<bits/stdc++.h>
 typenamespace std;
 
 int main()
